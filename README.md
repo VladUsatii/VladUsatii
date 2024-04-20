@@ -10,7 +10,9 @@
 - 📫 You can reach me at vladusatii@gmail.com for business and software-related inquiries.
 
 - For people that want to know what languages I know:
+   * My favorite tech stack: React + Next.js + Acternity UI + Clerk.js + three.js + OpenAI + KaTeX + Shadcn UI + App Controller
    * Python 2/3 ➡️ Fluent (Django, Flask, DBM, PyTorch, C extension, everything pretty much)
+   * Java ➡️ Proficient
    * ASM, C, C++ ➡️ Fluent
    * JavaScript ➡️ Fluent (HTML/CSS/Vanilla JS/React)
    * Haskell, Go, OCaml ➡️ Proficient
