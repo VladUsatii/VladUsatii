@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @VladUsatii, a C/o 27' college student at RIT in the US.
-- 👀 I’m interested in the engineering aspects of **Software-as-a-service,** **blockchain technologies**, **social networks,** and **machine learning.**
+- 👀 I’m interested in the engineering aspects of **Software-as-a-service,** **blockchain technologies**, **reinforcement learning** and **transformers/LLM.**
 - 🌱 I’m currently learning C. Working a lot with Next JS, Three.js, OpenAI API's, and the cross-platform integration of all these technologies + UI libraries.
 - ⚙️ Wrote code for a decentralized project's core system, core crawler, core API, web extension, and research/update repositories.
    * You can view my peer-to-peer cash system at the [Gemcoin-Python repository.](https://github.com/VladUsatii/gemcoin) You can read Gemcoin's research over at the [Gemcoin Research repository](https://github.com/VladUsatii/research) 🧬 or read the documentation [here](https://github.com/VladUsatii/p2pspec) ✍🏼.
